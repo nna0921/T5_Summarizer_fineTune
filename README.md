@@ -2,8 +2,6 @@
 
 A small project/notebook for fine-tuning T5 models (t5-small / t5-base / t5-large) to perform abstractive summarization. This repository demonstrates data preparation, training, inference and evaluation workflows using Hugging Face Transformers, Datasets and common summarization metrics (ROUGE).
 
-> NOTE: This repository's primary language is Jupyter Notebook. See the notebooks/ directory for step-by-step runnable examples (training, evaluation, and inference). If you don't see the exact script names mentioned below, adapt the commands to the notebook cells or scripts you have.
-
 ## Table of Contents
 - About
 - Repository structure (recommended)
